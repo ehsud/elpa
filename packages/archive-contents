@@ -1,0 +1,6 @@
+(1
+ (php-mode . [(1 21 1) ((emacs (24 3)) (cl-lib (0 5)))
+              "Major mode for editing PHP code" tar
+              ((:url . "https://github.com/emacs-php/php-mode")
+               (:keywords "languages" "php"))])
+ )
