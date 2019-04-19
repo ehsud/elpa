@@ -1,6 +1,6 @@
 Here are some personally used emacs lisp package archive
 
-## How to use it ?
+## How to use this repository ?
 
 Just edit your ~/.emacs configuration file and add the following
 
