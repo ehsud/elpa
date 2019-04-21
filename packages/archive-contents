@@ -1,4 +1,8 @@
 (1
+ (web-mode . [(16 0 23) ((emacs (23 1)))
+           "major mode for editing web templates" tar
+           ((:url . "http://web-mode.org")
+        (:keywords "web" "languages" "html"))])
  (php-mode . [(1 21 1) ((emacs (24 3)) (cl-lib (0 5)))
               "Major mode for editing PHP code" tar
               ((:url . "https://github.com/emacs-php/php-mode")

@@ -9,6 +9,10 @@ Just edit your ~/.emacs configuration file and add the following
 
 ## List of packages for emacs
 
+- [web-mode](https://elpa.typefo.com/packages/web-mode-16.0.23.tar)
+
+全功能的 html、css、javascript 混合开发模式
+
 - [php-mode](https://elpa.typefo.com/packages/php-mode-1.21.1.tar)
 
 用于 PHP 编辑模式下的语法高亮、自动提示工具
