@@ -21,6 +21,10 @@ Just edit your ~/.emacs configuration file and add the following
 
 用于 Emacs 的 touch bar 功能与美化主题包扩展
 
+- [company-bootstrap](https://elpa.typefo.com/packages/company-0.9.10.tar)
+
+用于 C、C++、PHP、javascript 等开发环境代码自动补齐、提示框架
+
 - [company-bootstrap](https://elpa.typefo.com/packages/company-bootstrap-4.3.1.tar)
 
 适用于 Emacs 的 HTML 开发环境 bootstrap 自动提示插件
