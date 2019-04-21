@@ -11,6 +11,10 @@
 	       "Rewrite of Powerline" tar
 	       ((:url . "http://github.com/milkypostman/powerline")
 		(:keywords "mode-line" "powerline"))])
+ (company . [(0 9 10) ((emacs (24 3)))
+           "Modular text completion framework" tar
+           ((:url . "http://company-mode.github.io")
+        (:keywords "abbrev" "company" "convenience" "matching"))])
  (company-bootstrap . [(4 3 1) ((emacs (24 3)) (company (0 9 10)))
            "A company backend for bootstrap" tar
            ((:url . "http://github.com/typefo/company-bootstrap")
