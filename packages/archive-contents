@@ -1,6 +1,11 @@
 (1
+ (common . [(1 0) ((emacs (24 3)))
+	 "Emacs common function library" tar
+	 ((:url . "https://github.com/typefo")
+	  (:keywords "emacs" "library" "function"))])
+
  (company-bootstrap . [(4 3 1) ((emacs (24 3)) (company (0 9 10)))
-		       "A company backend for bootstrap" tar
-		       ((:url . "http://github.com/typefo/company-bootstrap")
-			(:keywords "company" "bootstrap" "html" "css"))])
+		    "A company backend for bootstrap" tar
+		    ((:url . "http://github.com/typefo/company-bootstrap")
+		     (:keywords "company" "bootstrap" "html" "css"))])
  )
